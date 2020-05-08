@@ -1,7 +1,14 @@
 body {
-	background-color: #58B4AE;
+	background-color: white;
 }
 
+h1 {
+	color: #66BFBF;
+}
+
+h3 {
+	color: #66BFBF;
+}
 
 hr {
 	width: 5%;
